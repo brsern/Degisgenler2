@@ -82,7 +82,7 @@ namespace Operatorler
 
 
             Console.WriteLine("{0}\n{1}\n{2}\n{3}\n{4}\n", b1, b2, b3, b4, b5);
-            Console.WriteLine("{0}\n{1}\n{2}\n{3}\n{4}\n", b1, b2, b3, b4, b5);
+           
 
             Console.ReadKey();
         }
